@@ -1,2 +1,1 @@
-# great-scott
-Daily Planet Articles
+# python notes
